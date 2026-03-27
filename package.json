@@ -17,6 +17,7 @@
     "webpack-cli": "^6.0.1"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
     "css-loader": "^7.1.2",
     "eslint-config-prettier": "10.1.8",
     "html-loader": "^5.1.0",
