@@ -1,4 +1,4 @@
-import { capitalize } from "./capitalize.js";
+import { capitalize } from "../code/capitalize";
 
 describe("capitalize", () => {
   it("capitalizes the first character of a lowercase string", () => {
