@@ -1,4 +1,4 @@
-import { calculator } from "./calculator.js";
+import { calculator } from "../code/calculator.js";
 
 describe("calculator", () => {
   it("adds two numbers", () => {
