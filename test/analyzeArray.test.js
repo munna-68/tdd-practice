@@ -1,4 +1,4 @@
-import { analyzeArray } from "./analyzeArray.js";
+import { analyzeArray } from "../code/analyzeArray.js";
 
 describe("analyzeArray", () => {
   it("returns average, min, max, and length for a typical array", () => {
