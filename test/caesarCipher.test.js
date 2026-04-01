@@ -1,4 +1,4 @@
-import { caesarCipher } from "./caesarCipher.js";
+import { caesarCipher } from "../code/caesarCipher.js";
 
 describe("caesarCipher", () => {
   describe("basic shifting", () => {
